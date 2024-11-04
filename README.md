@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto alterao no repositorio local
+Texto alterado no repositório local
